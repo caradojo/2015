@@ -1,0 +1,139 @@
+{
+    "accueil": {
+        "title" : "Home",
+        "title_ag" : "Agile Grenoble 2015 : Let's grow together!",
+        "description" : {
+			"paragraphe0": "<span class='glyphicon glyphicon-pencil'></span>Many of you are asking us whether the conference is maintained following the tragic events of last Friday. To date there is no directive from the prefect to ban protests like Agile Grenoble conference. WTC Congress Center continues to host events every day. More than ever we wish we gather next Thursday around the values we share and which contribute to make our world better.",
+            "paragraphe1": "We are passionate with informatics (techniques, tools, management, but also simply humans and their wellness at work) and we strive to constantly improve our practices, our behaviors and our mindset. In this world where everything is moving fast, we need key reference points for that, and thus we are looking for meaning and more human values at work, at home and in daily life.",
+            "paragraphe2": "Let's imagine together a satisfied/satisfied business world where durable collaboration is the focus of attention. A business world where together, as a team, we develop know-how, interpersonal skills, and learning skills, while still taking better care of ourselves. For better economical, social and human outcomes.",
+            "paragraphe3": "If you too you sometimes have this dream, then let's meet at Agile Grenoble on <strong>Thursday 19 November 2015</strong>. We'll share our dreams, our hopes, our ideas and our experiences on this long learning path of growing together!"
+        },
+        "date": "See you on Thursday, 19 November 2015!"
+    },
+	
+	"agileinnovation": {
+		"title": "Agile Innovation 2015",
+        "description": "You want more ? Please join us at Agile Innovation 2015 on Friday November 20th (the day after Agile Grenoble). This day will run as an open space format conference in which you will bring and take all the topics that matter for you and for the other participants.",
+		"link": {
+            "name": "More information...",
+            "addr": "http://agile-grenoble.org/agile-innovation2015/"
+			}
+	},
+
+    "orateurs": {
+        "title": "Speakers",
+        "description": "The Agile Grenoble team is pleased to welcome you at the Word Trade Center on November 19, 2015 for a new day of exchanges around agility. Each year, about 50 speakers of France and other countries contributent to deliver a rich, diverse and high quality program."
+    },
+
+    "keynotes": {
+        "title": "Keynotes",
+        "description": "In 2015 you'll discover several keynotes: conference opening and conference closing (third keynotes has been cancelled because of the unavailability of the speaker who is sincerely sorry)."
+    },
+
+    "sponsors": {
+        "title": "Sponsors",
+        "remerciements": "Thanks to our 2015 sponsors",
+        "remerciements_partenaire": "Thanks to our 2015 partners",
+        "more_informations": "For more information:"
+    },
+
+    "participants": {
+        "title": "Participants",
+        "date": "November 2015"
+    },
+
+    "themes" : {
+        "title": "Conference theme",
+        "description": "In 2015, the main theme of the conference is: <strong>Let's grow together!</strong>The sessions will be organized around the following lines:",
+        "theme1": "Organizations and 21st century management",
+        "theme2": "Personal and collective development",
+        "theme3": "New competences and know-hows",
+        "theme4": "Wellness at work"
+    },
+
+    "cfp" : {
+        "title": "Submission is now closed",
+        "description": "Our submission platform remains open in order to allow improving your session description and editing your spear profile as well.",
+        "link": {
+            "name": "Edit sessions and profile",
+            "addr": "http://cfp.agile-grenoble.org/"
+              }
+    },
+
+	"register" : {
+        "title": "Registrations",
+        "description": "Sorry the conference is sold out. For 8 years the tickets for our conference are sold out every year well in advance.",
+        "link": {
+            "name": "Buy your ticket",
+            "addr": "http://yurplan.com/event/Agile-Grenoble-2015/5619"
+        },
+        "queueLink": {
+            "name": "Waiting list",
+            "addr": "https://docs.google.com/forms/d/1_wF7KMRca3rqa-Qqh_77xKHv7se9DSDtaIrGT9iPj3I/viewform"
+        },
+		"registrationfinished": "... but you have other options : <ul><li>Take the waiting list,</li><li>Agile Innovation,</li><li>and all along the year you can participate to the events organized by the Club Agile Rhône-Alpes.</li></ul>"		
+    },
+	
+    "apropos" : {
+        "title": "About",
+        "description": "The conference <strong>Agile Grenoble</strong> exists since 2008 and the 2015 edition will be the 8th conference in a row. The event is wholly organized by the volunteers of the Club Agile Rhône-Alpes Grenoble, with of course the support of our sponsors and partners.",
+        "of": "of",
+        "under": "under"
+    },
+
+    "cara": {
+        "title": "Club Agile Rhône Alpes (CARA)",
+        "description": "The CARA is a non-profit association, striving to promote and disseminate agile methods in the Rhône-Alpes area to a large public, with various means: conference, seminars, meetings and partnerships.",
+        "link": {
+            "name": "Visit the CARA's web site",
+            "addr": "http://www.clubagilerhonealpes.org/"
+        }
+    },
+
+    "programme": {
+        "title": "Program",
+        "nondisponible": "2015 program is under finalization... stay tuned!",
+        "disponible": "The conference program is now available!<br>You can already view this year sessions and their description.",
+        "link": "See the program"
+    },
+
+    "hotels": {
+        "title": "Hotels",
+        "more": "More hotels on"
+    },
+
+    "acces": {
+        "title": "Acces"
+    },
+
+    "inscriptions" : {
+        "title": "Registrations",
+        "price": "Registrations are mandatory. The price is 50 €. The ticket gives access to all conference sessions , as well as lunch and beverages served during breaks.",
+        "description": "Registrations should be open around September 15th."
+    },
+
+    "emails" : {
+        "title" : "Contacts",
+        "description": "To contact us before the conference, just send us an email:",
+        "orateur" : {
+            "addr": "orateur@agile-grenoble.org",
+            "desc": "for the call for speakers and the session submissions"
+        },
+        "sponsor" : {
+            "addr": "sponsor@agile-grenoble.org",
+            "desc": "for the sponsoring"
+        },
+        "inscription" : {
+            "addr": "inscription@agile-grenoble.org",
+            "desc": "for the registrations"
+        },
+        "contact" : {
+            "addr": "contact@agile-grenoble.org",
+            "desc": "for any other question related to the conference"
+        }
+    },
+
+    "button": {
+        "close": "Close"
+    }
+}
